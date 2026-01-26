@@ -31,6 +31,16 @@
   ### Programming and Scripting
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
 - [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
+### 
+
+### Penetration Testing Labs
+•	Conducted full-scope penetration testing: recon, exploitation, malware delivery, and post-exploitation
+•	Exploited vulnerabilities using Metasploit, EternalBlue, Shellshock, SQLi, and XSS
+•	Performed packet capture, session hijacking, and wireless attacks (WEP/WPA2)
+•	Investigated incidents using Wazuh SIEM and TheHive
+•	Tools: Nmap, Wireshark, Nessus, Metasploit, Burp Suite, Aircrack-ng, Ettercap, John the Ripper
+<img width="468" height="97" alt="image" src="https://github.com/user-attachments/assets/89d88e05-a17a-40ab-9a39-c50158a3a0d9" />
+
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/frank-joseph-polakovic-a03679225/)))
