@@ -28,11 +28,11 @@
 - Amazon Certified Cloud practitioner
 -
 - ## 📂 Projects & Portfolio
-### Programming and Scripting
+- ### Programming and Scripting
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
 - [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
 
-### Penetration Testing Labs
+- ### Penetration Testing Labs
 
 - Conducted full-scope penetration testing: recon, exploitation, malware delivery, and post-exploitation
 - Exploited vulnerabilities using Metasploit, EternalBlue, Shellshock, SQLi, and XSS
@@ -40,13 +40,13 @@
 - Investigated incidents using Wazuh SIEM and TheHive
 - Tools: Nmap, Wireshark, Nessus, Metasploit, Burp Suite, Aircrack-ng, Ettercap, John the Ripper
 
-### Penetration Testing & Mobile Security Defense
+- ### Penetration Testing & Mobile Security Defense
 
 - Designed mobile security defense strategies addressing AI-driven threats
 -	Evaluated SAST, DAST, and AI/ML security testing models
 -	Proposed hybrid penetration testing approach, combining automation with human analysis
 
-### Software Engineering
+- ### Software Engineering
 
 -	Developed frontend for Linux server monitoring app with automated alerts at 80% utilization
 -	Simulated server and threshold logging with Python; implemented notifications via Bash
@@ -54,15 +54,14 @@
 -	Tools: Python, PHP, Bash, AWS, Red Hat Linux
 
 
-### Cybersecurity and Digital Forensics Capstone
+- ### Cybersecurity and Digital Forensics Capstone
 
 -	Simulated enterprise malware breach and led full incident response
 -	Built NIST SP 800-61 aligned incident response, BCDR plan
 -	Analyzed logs for intrusion and data exfiltration using SIEM tools
 -	Tools: Splunk, Wireshark, PowerShell, Python
 
-### IPv6
-
+- ### IPv6
 
 -	Configured flash-based networking game using IPv6 interfaces and WebSockets
 -	Tools: IPv6, Ruffle, WebSockets
