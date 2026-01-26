@@ -32,7 +32,7 @@
 - ### Programming and Scripting
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
 - [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
-  Android App for securely connecting to an external database in order to add or remove items to or from from the inventory.
+- Android App for securely connecting to an external database in order to add or remove items to or from from the inventory.
 - [view here] -> (https://github.com/fpolakovic/android-app)
 
 - ### Penetration Testing Labs
