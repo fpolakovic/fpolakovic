@@ -29,7 +29,7 @@
 - ## 📂 Projects & Portfolio
 Here are some projects you can check out:
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
-- [view here] -> (https://github.com/qemu-cyber-lab)
+- [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/frank-joseph-polakovic-a03679225/)))
