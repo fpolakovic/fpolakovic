@@ -26,7 +26,8 @@
 - CompTIA Network+
 - CompTIA A+
 - Amazon Certified Cloud practitioner
--
+
+
 - ## 📂 Projects & Portfolio
 - ### Programming and Scripting
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
