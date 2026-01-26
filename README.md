@@ -4,26 +4,19 @@
 ---
 
 ## 🔍 About Me
-- 🎓 Cybersecurity graduate with a B.S. in Cybersecurity & A.S in Computer Information systems
-- 💻 Interested in threat detection, vulnerability assessment, security automation, policy implementation, project management
-- 📚 Currently learning: SIEM Integration, Penetration Testing, Red Teaming, Blue Teaming
+- 🎓 Recent graduate from Saint Leo University, with an NSA Center of Academic Excellence in Cyber Defense B.S. in Cybersecurity (GPA 3.934)
+- 📚 Currently learning: Penetration Testing, Red Teaming, Blue Teaming, SIEM Integration, Agentic AI
 - 🛠️ Building my [Cybersecurity GitHub Portfolio] to showcase hands-on skills
+- 💻 Interested in threat detection and response, penetration testing, virtualization, SIEM, security automation
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Security Tools:** Nmap, Wireshark, Metasploit, Wazuh, Ettercap, Windows Defender
-- **Programming/Scripting:** Python, Bash, Powershell
+- **Security Tools:** Nmap, Wireshark, Metasploit, Wazuh, Ettercap, Windows Defender, Nessus, Kali Linux, Burp Suite, Splunk
+- **Programming/Scripting:** Python, Java, Bash, Powershell
 - **Operating Systems:** Windows, Linux, MacOS
 - **Networking:** TCP/IP, OSI Model, Firewall configuration, Sockets fundimentals
-- **Cloud:** Cloud computing concepts
-
----
-
-## 📂 Projects & Portfolio
-Here are some projects you can check out:
-- Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
-- [view here] -> (https://github.com/qemu-cyber-lab)
+- **Cloud:** AWS Cloud Practitioner
 
 ---
 
@@ -32,8 +25,11 @@ Here are some projects you can check out:
 - CompTIA Network+
 - CompTIA A+
 - Amazon Certified Cloud practitioner
-
----
+-
+- ## 📂 Projects & Portfolio
+Here are some projects you can check out:
+- Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
+- [view here] -> (https://github.com/qemu-cyber-lab)
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/frank-joseph-polakovic-a03679225/)))
