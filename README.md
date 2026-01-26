@@ -28,7 +28,7 @@
 - Amazon Certified Cloud practitioner
 -
 - ## 📂 Projects & Portfolio
-Here are some projects you can check out:
+  # Programming and Scripting
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
 - [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
 
