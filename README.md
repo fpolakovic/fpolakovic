@@ -5,7 +5,7 @@
 
 ## 🔍 About Me
 - 🎓 Graduate of Saint Leo University (NSA Center of Academic Excellence in Cyber Defense), with a B.S. in Cybersecurity
-- Magna cum laude (GPA 3.934)
+- 🎓 Magna cum laude (GPA 3.934)
 - 📚 Currently learning: Penetration Testing, Red Teaming, Blue Teaming, SIEM Integration, Agentic AI
 - 🛠️ Building my [Cybersecurity GitHub Portfolio] to showcase hands-on skills
 - 💻 Interested in threat detection and response, penetration testing, virtualization, SIEM, security automation
