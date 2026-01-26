@@ -1,4 +1,4 @@
-# Frank Polakovic
+# Frank J. Polakovic
 
 
 ---
