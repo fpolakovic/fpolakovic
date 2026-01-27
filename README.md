@@ -34,7 +34,8 @@
 - [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
 - Android App for securely connecting to an external database in order to add or remove items to or from from the inventory.
 - [view here] -> (https://github.com/fpolakovic/android-app)
-
+- Modified version of the Social Engineering Toolkit that skips directly to the Reverse TCP Shell portion to exploit Windows Systems with a payload sent to the machine
+- [view here] -> (https://github.com/fpolakovic/social-engineer-toolkit)
 - ### Penetration Testing Labs
 
 - Conducted full-scope penetration testing: recon, exploitation, malware delivery, and post-exploitation
