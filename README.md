@@ -31,7 +31,7 @@
 - ## 📂 Projects & Portfolio
 - ### Configured QEMU/KVM Pen Testing Lab on Custom Linux System
 - Implemented SIEM scanning
-- Programming and Scripting
+- Programming and Scripting:
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
 - [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
 - Android App for securely connecting to an external database in order to add or remove items to or from from the inventory.
