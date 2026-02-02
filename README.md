@@ -30,7 +30,7 @@
 
 - ## 📂 Projects & Portfolio
 - ### Custom Penetration Testing Lab
-•	Virtualization (QEMU/KVM)
+•	 Virtualization (QEMU/KVM)
 •	Linux system configuration
 •	Security tooling (SIEM, OpenVAS, Metasploit, Nmap)
 •	Networking (SSH tunneling, port forwarding, proxying)
