@@ -30,11 +30,11 @@
 
 - ## 📂 Projects & Portfolio
 - ### Custom Penetration Testing Lab
-•	 Virtualization (QEMU/KVM)
-•	Linux system configuration
-•	Security tooling (SIEM, OpenVAS, Metasploit, Nmap)
-•	Networking (SSH tunneling, port forwarding, proxying)
-•	Penetration testing
+-	 Virtualization (QEMU/KVM)
+-	Linux system configuration
+-	Security tooling (SIEM, OpenVAS, Metasploit, Nmap)
+-	Networking (SSH tunneling, port forwarding, proxying)
+-	Penetration testing
 - Programming and Scripting:
 - Script for configuring a QEMU Cybersecurity pen testing lab on a Linux System.
 - [view here] -> (https://github.com/fpolakovic/qemu-cyber-lab)
